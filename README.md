@@ -49,6 +49,6 @@ I enjoy creating small tools and experimenting with HTML, CSS, and JavaScript.
 ## Connect
 
 I build and test most of my tools on GitHub and share them through my blog.  
-Feel free to explore my repositories [jsn01000111](https://github.com/jsn01000111/jsn01000111.github.io) and see my learning progress.
+Feel free to explore my repository [jsn01000111](https://github.com/jsn01000111/jsn01000111.github.io) and see my learning progress.
 
 Thanks for stopping by!
