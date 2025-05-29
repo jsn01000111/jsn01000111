@@ -32,6 +32,7 @@ I enjoy creating small tools and experimenting with HTML, CSS, and JavaScript.
 ## Projects
 
 - **Live Code Lab** – Live HTML/CSS/JS editing and preview, Inline and stylesheet editing, Element resizing and layout editing, JavaScript inspection mode, Built-in popup editor for easy code modifications
+  
 [Live Code Editor & Preview](https://jsn01000111.github.io/code-editor/live-editor/)  
 - **Code Sandbox Tool** – A live HTML/CSS/JS editor with error checking   
 - **Blog Tools** – Small widgets for embedding in blog page posts
