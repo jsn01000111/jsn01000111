@@ -31,9 +31,9 @@ I enjoy creating small tools and experimenting with HTML, CSS, and JavaScript.
 
 ## Projects
 
-- **Code Sandbox Tool** – A live HTML/CSS/JS editor with error checking  
-- **Text Code Editor** – A basic in-browser code editor for testing snippets  
-- **Blog Tools** – Small widgets for embedding in blog posts
+- **Live Code Lab** – Live HTML/CSS/JS editing and preview, Inline and stylesheet editing, Element resizing and layout editing, JavaScript inspection mode, Built-in popup editor for easy code modifications
+- **Code Sandbox Tool** – A live HTML/CSS/JS editor with error checking   
+- **Blog Tools** – Small widgets for embedding in blog page posts
 
 ---
 
