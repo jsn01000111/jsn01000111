@@ -13,6 +13,7 @@ I enjoy creating small tools and experimenting with HTML, CSS, and JavaScript.
 - DOM manipulation
 - Building simple web tools
 - Creating interactive blog features
+[https://j4songvia.blogspot.com](https://j4songvia.blogspot.com)
 
 ---
 
